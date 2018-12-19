@@ -100,11 +100,11 @@ print check_sudoku(correct)
 print check_sudoku(incorrect2)
 #>>> False
 
-#print check_sudoku(incorrect3)
+print check_sudoku(incorrect3)
 #>>> False
 
-#print check_sudoku(incorrect4)
+print check_sudoku(incorrect4)
 #>>> False
 
-#print check_sudoku(incorrect5)
+print check_sudoku(incorrect5)
 #>>> False
